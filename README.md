@@ -1,6 +1,6 @@
 # Basic Intro to Linked Lists
 
-![1](https://github.com/ConlanSchool/Linked-Lists/assets/121739541/8c8f22d1-8507-4a4d-9e1a-1b0e4cf7804a)
+https://i.imgur.com/lFkHwGJ.png
 
 ---
 
