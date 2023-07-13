@@ -1,4 +1,4 @@
-# Simplifying Linked Lists: A Beginner's Guide
+# Basic Intro to Linked Lists
 
 ![1](https://github.com/ConlanSchool/Linked-Lists/assets/121739541/8c8f22d1-8507-4a4d-9e1a-1b0e4cf7804a)
 
@@ -8,7 +8,7 @@ If you are new to linked lists, we are going to go through the concept and break
 
 ## What Is a Linked List?
 
-A linked list is a sequential collection of nodes. Each node contains two parts - the data and a reference (or link) to the next node in the sequence. Imagine them like a scavenger hunt, where each clue (data) also tells you where to find the next clue (link to the next node).
+A linked list is a sequential collection of nodes. Each node contains two parts, the data and a link to the next node in the sequence. Each node has information on where they should point to in order to continue the linked list's sequence, forming a connected chain of nodes.
 
 ## Why Use Linked Lists?
 
@@ -22,7 +22,7 @@ For example, arrays are of fixed size, meaning you need to specify their size at
 
 ## Types of Linked Lists
 
-It's worth noting that there are actually several types of linked lists. The three main types are:
+There are actually several types of linked lists. The three main types are:
 
 1. **Singly Linked Lists**: Each node contains data and a pointer to the next node. However, moving back is not possible as there is no reference to the previous node.
 
@@ -46,6 +46,10 @@ Basic operations that can be performed on linked lists include insertion, deleti
 
 4. **Search**: You can look for a specific value within the linked list. This is often done in conjunction with traversal.
 
-While the operations might seem straightforward, they are fundamental to many complex data manipulations and algorithms.
-
 ![4](https://github.com/ConlanSchool/Linked-Lists/assets/121739541/37424234-e704-487a-b159-c3dfb668f2be)
+
+## TL;DR
+
+Linked lists are versatile, and dynamic data structures that can effectively overcome the limitations of arrays. Their flexibility in size adjustment, direction of traversal, and the ability to perform various operations makes them an essential tool in data handling.
+
+Thank you for reading.
