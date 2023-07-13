@@ -1,6 +1,7 @@
 # Basic Intro to Linked Lists
 
-https://i.imgur.com/lFkHwGJ.png
+![image](https://github.com/ConlanSchool/Linked-Lists/assets/121739541/aace6680-5485-427e-a5b9-c04c5ef16740)
+
 
 ---
 
@@ -16,7 +17,7 @@ The reason for using linked lists is because of their versatility and efficiency
 
 For example, arrays are of fixed size, meaning you need to specify their size at the time of creation. On the other hand, linked lists are dynamic and can grow and shrink while deployed, making them more flexible for certain applications. 
 
-![2](https://github.com/ConlanSchool/Linked-Lists/assets/121739541/dd636287-49c8-4103-ab87-0007ea67ebab)
+![image](https://github.com/ConlanSchool/Linked-Lists/assets/121739541/900d35d5-a825-40e2-ba05-7f15eeb54f9d)
 
 ---
 
@@ -30,7 +31,8 @@ There are actually several types of linked lists. The three main types are:
 
 3. **Circular Linked Lists**: Just like the singly linked list, but the last node points back to the first node, creating a loop.
 
-![3](https://github.com/ConlanSchool/Linked-Lists/assets/121739541/7524105e-0bd4-4102-bc7d-4fab271da49b)
+![image](https://github.com/ConlanSchool/Linked-Lists/assets/121739541/ba41625e-be40-4005-926e-415cb01baedf)
+
 
 ---
 
@@ -46,7 +48,7 @@ Basic operations that can be performed on linked lists include insertion, deleti
 
 4. **Search**: You can look for a specific value within the linked list. This is often done in conjunction with traversal.
 
-![4](https://github.com/ConlanSchool/Linked-Lists/assets/121739541/37424234-e704-487a-b159-c3dfb668f2be)
+![image](https://github.com/ConlanSchool/Linked-Lists/assets/121739541/f8574cc6-1c0e-4cf6-834b-8836487e4655)
 
 ## TL;DR
 
